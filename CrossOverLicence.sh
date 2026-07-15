@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Variables
 FOLDER_NAME="CrossOverLicence"
