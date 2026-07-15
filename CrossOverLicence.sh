@@ -4,7 +4,7 @@
 FOLDER_NAME="CrossOverLicence"
 PLIST_NAME="com.codeweavers.CrossOver.license.plist"
 BOTTLES_PATH="$HOME/Library/Application Support/CrossOver/Bottles"
-SCRIPT_URL="https://gist.githubusercontent.com/repsejnworb/84d3e0852cf90ef40edf7e9c060f193b/raw/CrossOverLicence.sh?token=$(date +%s)"
+SCRIPT_URL="https://github.com/decaftuesdays-coder/crossover/blob/main/CrossOverLicence.sh?token=$(date +%s)"
 
 TOTAL_STEPS=3
 STEP=0
