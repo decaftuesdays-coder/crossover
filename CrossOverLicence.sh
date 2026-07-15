@@ -3,7 +3,7 @@
 # Variables
 FOLDER_NAME="CrossOverLicence"
 PLIST_NAME="com.codeweavers.CrossOver.license.plist"
-BOTTLES_PATH="/Library/Application Support/CrossOver/Bottles"
+BOTTLES_PATH="$HOME/Library/Application Support/CrossOver/Bottles"
 SCRIPT_URL="https://github.com/decaftuesdays-coder/crossover/blob/main/CrossOverLicence.sh?token=$(date +%s)"
 
 TOTAL_STEPS=3
